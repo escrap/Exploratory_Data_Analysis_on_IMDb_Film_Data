@@ -1,5 +1,5 @@
 ### Date created
-Thursday, NFebruary 11, 2019
+Thursday, February 11, 2019
 
 ### Project Title
 
